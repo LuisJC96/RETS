@@ -1,0 +1,10 @@
+S=gN|aN|bN
+N=gG|aA|bB|cC|dD|eE|fF
+G=aA|bB
+A=gG|bB|cC
+B=gG|aA|cC|dD
+C=aA|bB|dD|eE
+D=bB|cC|eE|fF
+E=cC|dD|fF
+F=dD|eE
+*fin*

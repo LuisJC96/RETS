@@ -1,0 +1,10 @@
+S=ogN|oaN|obN
+N=ogG|oaA|obB|ocC|odD|oeE|ofF
+G=oaA|obB
+A=ogG|obB|ocC
+B=ogG|oaA|ocC|odD
+C=oaA|obB|odD|oeE
+D=obB|ocC|oeE|ofF
+E=ocC|odD|ofF
+F=odD|oeE
+*fin*

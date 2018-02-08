@@ -1,0 +1,10 @@
+S=vgN|vaN|vbN
+N=vgG|vaA|vbB|vcC|vdD|veE|vfF
+G=vaA|vbB
+A=vgG|vbB|vcC
+B=vgG|vaA|vcC|vdD
+C=vaA|vbB|vdD|veE
+D=vbB|vcC|veE|vfF
+E=vcC|vdD|vfF
+F=vdD|veE
+*fin*

@@ -1,0 +1,6 @@
+S=aN|bN|cN
+N=a#A#|bB|cC
+A#=aA#|bB|cC
+B=bB|aA#|c#C
+C=cC|aA#|bB
+*fin*
